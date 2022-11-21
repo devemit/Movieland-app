@@ -12,8 +12,8 @@
 - Repository URL: [View code](https://github.com/devemit/Movieland-app)
 
 ## Built with
-- React JS
-- Asynchronous Code
-- Async and Await
+- React 
+- React Hooks
+- Async,Await
 - API
 - Visual Studio Code
